@@ -1,2 +1,2 @@
 # Rock-Paper-Scissors-Game
-Javascript Codecademy project - create a rock, paper, scissors game
+Javascript Codecademy project - created a rock, paper, scissors game using basic Javascript concepts
